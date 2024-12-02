@@ -19,12 +19,12 @@ function Sobre(){
                        <p> Sou <span>Elias Pereira</span> <br />
                         <strong>Dev Front End</strong> </p>
 
-                       <p>Trabalho com desenvolvimento Front-end desde 2024.</p> 
+                       <p>Trabalho com desenvolvimento Front-end desde 2022 e estou me especializando na área.</p> 
 
-                       <p>Sou apaixonado por transformar ideias em realidade digital.</p>  
+                       <p>Amo transformar aquilo que está no imaginário ou nas ideias em algo real.</p>  
 
-                       <p> Especializado em criação de aplicações dinâmicas e intuitivas, <br />
-                        com foco na experiência do usuário.</p> 
+                       <p>Especializado em desenvolver interfaces atrativas e funcionais, combinando design e tecnologia para criar experiências digitais envolventes,
+                         com foco no impacto visual e na conversão do usuário.</p> 
 
                     </div>
                 </div>
