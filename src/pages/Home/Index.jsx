@@ -4,7 +4,8 @@ import styles from './Home.module.css';
 
 function Home() {
   const [imageUrl, setImageUrl] = useState('');
-  const backendUrl = 'https://springcrest1-1.onrender.com/'; // Agora a URL é relativa, pois frontend e backend estão na mesma origem
+  const backendUrl = `${window.location.origin}/info`;
+ // Agora a URL é relativa, pois frontend e backend estão na mesma origem
 
   useEffect(() => {
     fetch(backendUrl)
